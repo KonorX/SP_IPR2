@@ -1,0 +1,6 @@
+﻿  LAB7.cpp
+C:\Users\User\Downloads\SP2021\lab02\LAB7\LAB7.cpp(30,15): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\User\Downloads\SP2021\lab02\LAB7\LAB7.cpp(49,18): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\User\Downloads\SP2021\lab02\LAB7\LAB7.cpp(61,18): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\User\Downloads\SP2021\lab02\LAB7\LAB7.cpp(211,38): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+  LAB7.vcxproj -> C:\Users\User\Downloads\SP2021\lab02\x64\Debug\LAB7.exe
